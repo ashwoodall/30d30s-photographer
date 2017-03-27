@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Oswald');
+
+body {
+	padding-top: 70px;
+	font-family: 'Lato', sans-serif !important;
+}
+
+h1 {
+	font-family: 'Oswald', sans-serif !important;
+}
+
+.jumbotron {
+	color: #2c3e50;
+}
+
+.navbar, .nav {
+	background: #A9A9A9;
+	font-family: 'Oswald', sans-serif !important;
+}
+
+.navbar .navbar-nav>li>a {
+	color: white;
+}
+
+.navbar .navbar-brand {
+	color: white;
+}
